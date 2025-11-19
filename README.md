@@ -3,7 +3,7 @@
 
 1. clone this repo where you want the nix module to be:
 
-```git clone https://github.com/thecosmicode/Plymouth-Creator-Nixos```
+```git clone https://github.com/TheCosmomancer/Plymouth-Creator-Nixos```
 
 2. cd into the folder:
 

@@ -1,4 +1,8 @@
 # Plymouth-Creator-Nixos
+## Requirements
+
+Make sure to have the ```ffmpeg``` package available for use.
+
 ## Instructions 
 
 1. clone this repo where you want the nix module to be:
